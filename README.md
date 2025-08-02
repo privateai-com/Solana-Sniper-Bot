@@ -55,6 +55,41 @@ python main.py
 
 ---
 
+## ⚠️ IMPORTANT DISCLAIMER - READ FIRST
+
+> **🚨 HIGH RISK TRADING SOFTWARE - USE AT YOUR OWN RISK 🚨**
+
+### 💀 **FINANCIAL RISK WARNING**
+
+- **YOU CAN LOSE ALL YOUR MONEY** - Cryptocurrency trading is extremely risky
+- **NO GUARANTEES** - Past performance does not predict future results
+- **VOLATILE MARKETS** - Token prices can crash to zero instantly
+- **BOT MALFUNCTIONS** - Technical issues may cause unexpected losses
+- **YOUR RESPONSIBILITY** - You are solely responsible for all trading decisions
+
+### 🛡️ **LEGAL DISCLAIMER**
+
+**THE DEVELOPERS ARE NOT RESPONSIBLE FOR ANY LOSSES, DAMAGES, OR CONSEQUENCES ARISING FROM THE USE OF THIS SOFTWARE.**
+
+By using this bot, you acknowledge that:
+- ✅ You understand the extreme risks of automated crypto trading
+- ✅ You will not hold developers liable for any financial losses
+- ✅ You are using this software entirely at your own risk
+- ✅ You will start with small amounts you can afford to lose completely
+- ✅ You will monitor the bot continuously and understand its behavior
+
+### 🚨 **MANDATORY SAFETY MEASURES**
+
+- 🔒 **START SMALL**: Begin with $1-10 maximum position sizes
+- 👀 **MONITOR CONSTANTLY**: Never leave the bot unattended
+- 🛑 **EMERGENCY STOP**: Know how to stop the bot immediately
+- 📚 **UNDERSTAND FULLY**: Read all documentation before trading
+- 💰 **RISK MANAGEMENT**: Only use money you can afford to lose 100%
+
+> **⚠️ IF YOU ARE NOT COMFORTABLE WITH POTENTIALLY LOSING ALL YOUR CAPITAL, DO NOT USE THIS SOFTWARE ⚠️**
+
+---
+
 ## 🚀 What This Bot Does
 
 This advanced Solana sniper bot automatically:
@@ -266,10 +301,10 @@ python3 main.py
 
 ### ⚡ **Speed Optimizations**
 
-- **Cycle Time**: 15-25 seconds (3-6x faster than original)
+- **Cycle Time**: 15-25 seconds
 - **API Response**: 500ms average
 - **Trade Execution**: 2-5 seconds
-- **Error Recovery**: 5 seconds (6x faster)
+- **Error Recovery**: 5 seconds
 
 ### 🎯 **Trading Efficiency**
 
@@ -296,7 +331,7 @@ python3 main.py
 > - Start with small amounts
 > - Monitor performance closely  
 > - Understand the risks involved
-> - Never invest more than you can afford to lose
+> - Never trade more than you can afford to lose
 
 ---
 
@@ -338,7 +373,18 @@ Contributions are welcome! Please:
 
 ## 📄 **License**
 
-This project is for educational purposes. Use at your own risk.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### ⚠️ **IMPORTANT LEGAL NOTICE**
+
+**THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHORS ARE NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.**
+
+- 🚨 **FOR EDUCATIONAL PURPOSES ONLY**
+- 🚨 **USE AT YOUR OWN RISK**
+- 🚨 **NO WARRANTY OR GUARANTEES**
+- 🚨 **DEVELOPERS NOT RESPONSIBLE FOR LOSSES**
+
+By using this software, you agree to the terms in the LICENSE file and acknowledge that you understand the risks of automated cryptocurrency trading.
 
 ---
 
